@@ -10,7 +10,6 @@ Supports:
 - Litecoin - LTC
 - Neocoin - NEC
 - BitcoinCash - BCH
-- Dashcoin - DASH
 
 Features:
 - 9KB executable!
@@ -30,5 +29,3 @@ Todo:
 - Reduce detections (Windows Defender)
 - Improve antianalysis and antivm.
 - 
-
-Educational purposes only!!
